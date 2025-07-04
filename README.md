@@ -15,7 +15,10 @@ The workflow includes data cleaning and preprocessing, followed by in-depth anal
 ## Technologies Used
 
 1.Python
+
 2.Pandas
+
 3.Matplotlib
+
 4.Seaborn
 
