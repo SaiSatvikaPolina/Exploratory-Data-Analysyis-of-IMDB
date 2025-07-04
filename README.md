@@ -8,17 +8,20 @@ The workflow includes data cleaning and preprocessing, followed by in-depth anal
 ## Key Highlights
 
 1.Comprehensive data exploration and cleaning for accurate analysis
+
 2.Visualization of ratings, genres, and popularity trends
+
 3.Actionable findings on audience preferences and movie performance
+
 4.User-friendly code and visualizations for easy interpretation
 
 ## Technologies Used
 
-1.Python
+1. Python
 
-2.Pandas
+2. Pandas
 
-3.Matplotlib
+3. Matplotlib
 
-4.Seaborn
+4. Seaborn
 
